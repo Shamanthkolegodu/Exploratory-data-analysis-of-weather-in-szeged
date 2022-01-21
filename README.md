@@ -1,4 +1,4 @@
-# SDS-project
+# Exploratory data analysis of weather in szeged : 2012-2015
 
 SDS project weather prediction
 
